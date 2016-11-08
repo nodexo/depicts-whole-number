@@ -1,8 +1,7 @@
-.DS_Store
-.DS_Store?
+.DS*
 ._*
 _*
-Thumbs.db
 *.log
-node_modules
 .nyc_output
+Thumbs.db
+node_modules

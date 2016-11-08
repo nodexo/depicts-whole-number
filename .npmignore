@@ -1,8 +1,6 @@
-
-.editorconfig
-
 _*
 *.log
+.editorconfig
 .nyc_output
 test
 coverage
