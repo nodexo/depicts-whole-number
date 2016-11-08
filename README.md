@@ -4,10 +4,6 @@ depicts-whole-number
 
 Tests a variable to see if it represents a whole number.<sup>[1]</sup>
 
-The following numbers are not whole numbers, but identical up to an isomorphism<sup>[2]</sup>:
-- 1e+21 (scientific notation) 
-- 1000.00 (natural number with a fraction) 
-
 
 Installation
 ------------
@@ -41,7 +37,12 @@ depictsWholeNumber(false) // false
 depictsWholeNumber(true) // false
 ```
 
-You will find more examples in the **test** folder.
+Visit the [test](https://github.com/nodexo/depicts-whole-number/tree/master/test) folder for more examples.
+
+Note: The following numbers are not whole numbers, but identical up to an isomorphism:<sup>[2]</sup>
+- 1e+21 (scientific notation) 
+- 1000.00 (natural number with a fraction) 
+
 
 
 Only Safe Numbers
