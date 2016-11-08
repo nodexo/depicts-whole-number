@@ -1,0 +1,29 @@
+{
+  "name": "depicts-whole-number",
+  "version": "1.0.0",
+  "description": "Tests a variable to see if it represents a whole number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard & tap test/*.js --cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodexo/depicts-whole-number.git"
+  },
+  "keywords": [
+    "test",
+    "variable",
+    "whole number",
+    "natural number"
+  ],
+  "author": "Michael Kortstiege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodexo/depicts-whole-number/issues"
+  },
+  "homepage": "https://github.com/nodexo/depicts-whole-number#readme",
+  "devDependencies": {
+    "standard": "^8.5.0",
+    "tap": "^8.0.0"
+  }
+}
