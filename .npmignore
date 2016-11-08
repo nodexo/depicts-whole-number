@@ -3,3 +3,6 @@
 
 _*
 *.log
+.nyc_output
+test
+coverage

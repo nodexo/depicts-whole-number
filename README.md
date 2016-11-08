@@ -46,7 +46,7 @@ You'll find more examples in the 'test' folder.
 
 Only Safe Numbers
 -----------------
-True is only returned for whole numbers being less or equal than `Number.MAX_SAFE_INTEGER`.  
+Using this option, true is only returned for whole numbers being less or equal than `Number.MAX_SAFE_INTEGER`.  
 Visit [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_SAFE_INTEGER) 
 for further reference.
 
@@ -64,5 +64,5 @@ ISC
 
 <p>&nbsp;</p> 
   
-[1]: Whole numbers are natural numbers (including zero) written in decimal notation without a decimal fraction.
+[1]: Whole numbers are natural numbers (including zero) written in decimal notation without a decimal fraction.  
 [2]: Isomorphism: Sameness between two different structures.
