@@ -21,6 +21,7 @@ depictsWholeNumber(0) // true
 depictsWholeNumber(1) // true
 depictsWholeNumber(-1) // false
 depictsWholeNumber(1.2) // false
+depictsWholeNumber(1e+21) // false
 
 depictsWholeNumber('0') // true
 depictsWholeNumber('01') // false
