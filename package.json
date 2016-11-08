@@ -12,9 +12,11 @@
   },
   "keywords": [
     "test",
+    "check",
     "variable",
     "whole number",
-    "natural number"
+    "natural number",
+    "helper"
   ],
   "author": "Michael Kortstiege",
   "license": "ISC",
