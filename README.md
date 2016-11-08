@@ -41,7 +41,7 @@ depictsWholeNumber(false) // false
 depictsWholeNumber(true) // false
 ```
 
-You'll find more examples in the 'test' folder.
+You will find more examples in the **test** folder.
 
 
 Only Safe Numbers
@@ -64,5 +64,5 @@ ISC
 
 <p>&nbsp;</p> 
   
-[1]: Whole numbers are natural numbers (including zero) written in decimal notation without a decimal fraction.  
-[2]: Isomorphism: Sameness between two different structures.
+[1] Whole numbers are natural numbers (including zero) written in decimal notation without a decimal fraction.  
+[2] Isomorphism: Sameness between two different structures.
