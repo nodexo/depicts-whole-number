@@ -35,7 +35,6 @@ depictsWholeNumber(null) // false
 depictsWholeNumber(undefined) // false
 depictsWholeNumber('') // false
 depictsWholeNumber(false) // false
-depictsWholeNumber(true) // false
 ```
 
 Visit the [test](https://github.com/nodexo/depicts-whole-number/tree/master/test) folder for more examples.
@@ -48,7 +47,7 @@ Note: The following numbers are not whole numbers, but identical up to an isomor
 
 Only Safe Numbers
 -----------------
-Using this option, true is only returned for whole numbers being less or equal than `Number.MAX_SAFE_INTEGER`.  
+Using this option, `true` is only returned for whole numbers being less or equal than `Number.MAX_SAFE_INTEGER`.  
 Visit [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_SAFE_INTEGER) 
 for further reference.
 
