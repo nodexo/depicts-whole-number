@@ -40,11 +40,11 @@ depictsWholeNumber(undefined) // false
 depictsWholeNumber(NaN) // false
 ```
 
-Look into the [test folder](https://github.com/nodexo/depicts-whole-number/tree/master/test) for more examples.
+Take a look into the [test folder](https://github.com/nodexo/depicts-whole-number/tree/master/test) for more examples.
 
 Note: The following numbers are not whole numbers, but identical up to an isomorphism:<sup>[2]</sup>
-- 1e+21 (scientific notation) 
-- 1000.00 (natural number with a fraction) 
+- 1e+3 (scientific notation) ~ 1000
+- 1000.00 (natural number with a fraction) ~ 1000
 
 
 Only Safe Numbers
