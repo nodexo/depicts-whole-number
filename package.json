@@ -4,7 +4,7 @@
   "description": "Tests a variable to see if it represents a whole number.",
   "main": "index.js",
   "scripts": {
-    "test": "standard & tap test/*.js --cov --reporter spec"
+    "test": "standard & tap test/*.js --coverage --reporter spec && tap --coverage-report=lcov"
   },
   "repository": {
     "type": "git",
