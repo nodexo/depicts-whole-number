@@ -4,7 +4,9 @@
   "description": "Tests a variable to see if it represents a whole number.",
   "main": "index.js",
   "scripts": {
-    "test": "standard & tap test/*.js --coverage --reporter spec && tap --coverage-report=lcov"
+    "pretest": "npm install codeclimate-test-reporter -g",
+    "test": "standard & tap test/*.js --coverage --reporter spec",
+    "posttest": "tap --coverage-report=lcov && codeclimate-test-reporter < ./coverage/lcov.info"
   },
   "repository": {
     "type": "git",
