@@ -1,7 +1,7 @@
 {
   "name": "depicts-whole-number",
   "version": "1.0.5",
-  "description": "Tests a variable to see if it represents a whole number.",
+  "description": "Test a variable to see if it represents a whole number.",
   "main": "index.js",
   "scripts": {
     "pretest": "npm install codeclimate-test-reporter -g",
