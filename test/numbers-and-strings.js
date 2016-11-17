@@ -12,6 +12,7 @@ tap.equal(depictsWholeNumber(Number.MAX_SAFE_INTEGER + 1), true, 'Number.MAX_SAF
 tap.equal(depictsWholeNumber(1e+21), false, '1e+21 should be false')
 tap.equal(depictsWholeNumber(Number.MAX_VALUE), false, 'Number.MAX_VALUE should be false')
 tap.equal(depictsWholeNumber(Infinity), false, 'Infinity should be false')
+tap.equal(depictsWholeNumber(-Infinity), false, '-Infinity should be false')
 
 tap.equal(depictsWholeNumber('0'), true, '"0" should be true')
 tap.equal(depictsWholeNumber('123'), true, '"123" should be true')

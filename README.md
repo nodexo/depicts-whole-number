@@ -6,8 +6,8 @@ Tests a variable to see if it represents a whole number.<sup>[1]</sup>
 
 
 [![Travis CI build status](https://travis-ci.org/nodexo/depicts-whole-number.svg?branch=master)](https://travis-ci.org/nodexo/depicts-whole-number)
-[![Test Coverage](https://codeclimate.com/github/nodexo/depicts-whole-number/badges/coverage.svg?v=1)](https://codeclimate.com/github/nodexo/depicts-whole-number/coverage)
-[![Code Climate](https://codeclimate.com/github/nodexo/depicts-whole-number/badges/gpa.svg?v=1)](https://codeclimate.com/github/nodexo/depicts-whole-number)
+[![Test Coverage](https://codeclimate.com/github/nodexo/depicts-whole-number/badges/coverage.svg?v=1.0.6)](https://codeclimate.com/github/nodexo/depicts-whole-number/coverage)
+[![Code Climate](https://codeclimate.com/github/nodexo/depicts-whole-number/badges/gpa.svg?v=1.0.6)](https://codeclimate.com/github/nodexo/depicts-whole-number)
 
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
