@@ -4,8 +4,10 @@ depicts-whole-number
 
 Test a variable to see if it represents a whole number.<sup>[1]</sup>
 
+[![Dependency Status](https://david-dm.org/nodexo/depicts-whole-number.svg?v=1.0.6)](https://david-dm.org/nodexo/depicts-whole-number)
+[![devDependencies Status](https://david-dm.org/nodexo/depicts-whole-number/dev-status.svg?v=1.0.6)](https://david-dm.org/nodexo/depicts-whole-number?type=dev)
 
-[![Travis CI build status](https://travis-ci.org/nodexo/depicts-whole-number.svg?branch=master)](https://travis-ci.org/nodexo/depicts-whole-number)
+[![Build Status](https://travis-ci.org/nodexo/depicts-whole-number.svg?branch=master)](https://travis-ci.org/nodexo/depicts-whole-number)
 [![Test Coverage](https://codeclimate.com/github/nodexo/depicts-whole-number/badges/coverage.svg?v=1.0.6)](https://codeclimate.com/github/nodexo/depicts-whole-number/coverage)
 [![Code Climate](https://codeclimate.com/github/nodexo/depicts-whole-number/badges/gpa.svg?v=1.0.6)](https://codeclimate.com/github/nodexo/depicts-whole-number)
 
