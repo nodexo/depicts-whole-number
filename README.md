@@ -17,7 +17,7 @@ Test a variable to see if it represents a whole number.<sup>[1]</sup>
 Installation
 ------------
 
-    npm install depicts-whole-number
+    $ npm install depicts-whole-number
 
 
 Usage
